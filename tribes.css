@@ -1,0 +1,26 @@
+header{
+	padding: 20px;
+	color:black;
+	background-image: url("./Tribes_Images/12.jpg");
+	background-size: cover;
+	height:120px;
+	text-align: center;
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: bold;
+}
+div.polaroid{
+  width: 100%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+  align-items: left;
+}
+.leftside, .rightside, .middle{
+	height:1750px;
+	width: 98%;
+	margin-top: 15px;
+	background-color: #ffffff;
+}

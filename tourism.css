@@ -1,0 +1,45 @@
+.leftside, .rightside{
+	height: 100%;
+	width:100%;
+	margin-top: 15px;
+}
+.leftside{
+	background-size: cover;
+}
+.rightside{
+	background-size: cover;
+}
+
+
+div.polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  margin-left: 65px;
+}
+div.polaroid2{
+	width: 80%;
+	background-color: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   margin-left: 65px;
+}
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+.img2{
+	margin-left: 50px;
+
+}
+header{
+	padding: 20px;
+	color:black;
+	background:url("./Tourism_Images/3.jpg");
+	background-size: cover;
+	height:120px;
+	text-align: center;
+}
+header > h1{
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

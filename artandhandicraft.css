@@ -1,0 +1,22 @@
+.leftside, .rightside, .middle{
+	height:1000px;
+	width: 95%;
+	margin-top: 15px;
+	background-color: #ffffff;
+}
+div.polaroid {
+  width: 80%;
+  background-color: rgba(255, 81, 0, 0.774);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  margin-left: 40px;
+  text-align: center;
+}
+header{
+	padding: 20px;
+	color:black;
+	background-image: url("./Art_Images/bgArt.jfif");
+	background-size: cover;
+	height:120px;
+	text-align: center;
+}
